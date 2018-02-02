@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\jo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\jo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ri.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ri.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ngu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ngu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\du.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\du.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pa.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\pa.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\yo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ho.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ho.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ti.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ti.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ni.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ni.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\se.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\se.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ca.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ca.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\e.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\e.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ci.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ci.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ra.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ra.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\be.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\be.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\i.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\i.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nyi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nyi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\la.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\la.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\we.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\we.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\me.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\me.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\gi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nya.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nya.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\lu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\no.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\no.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\hi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ge.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ge.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\doo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\doo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nge.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nge.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ma.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ma.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\mo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\e.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\e.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ka.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ka.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ba.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ba.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\tu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\i.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\i.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\a.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\a.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\to.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\to.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ko.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ko.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\da.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\da.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ku.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ku.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\mi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ga.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ga.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\li.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\li.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\po.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\po.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\di.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\di.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\si.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\si.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ce.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ce.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\wu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ja.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ja.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nga.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nga.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\le.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\le.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\re.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\re.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wa.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\wa.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bo.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\bo.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nye.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nye.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bu.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\bu.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ye.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ye.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\so.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\so.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ku.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ku.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\yi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ji.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ji.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ngi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ngi.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ki.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ki.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bu.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\bu.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ge.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ge.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\mu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\hi.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\la.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\la.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\no.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\no.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\yu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\pu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sa.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\sa.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\o.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\o.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pe.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\pe.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ca.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ca.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\go.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\go.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\co.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\co.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bi.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\bi.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\yo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\button.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nya.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nya.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\doo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\doo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\we.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\we.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\se.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\se.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\hu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\be.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\be.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\te.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\te.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\wu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\na.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\na.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nga.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nga.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\li.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\li.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\lo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pa.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\pa.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\yi.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ya.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ya.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ji.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ji.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\jo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\jo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\wi.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\wo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\de.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\de.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\he.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\he.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\a.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\a.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ju.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ju.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\re.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\re.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\button.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\da.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\da.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\mi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\mo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ngu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ngu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ma.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ma.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nye.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nye.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\cu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ngo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ngo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ko.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ko.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ngi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ngi.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sa.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\sa.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ru.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ru.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bo.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\bo.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pe.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\pe.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\gu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\te.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\te.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ha.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ha.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\je.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\je.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\u.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\u.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ki.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ki.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ro.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ro.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nyo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nyo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\di.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\di.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\yu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nyu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nyu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ci.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ci.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\de.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\de.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\mu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\co.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\co.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ta.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ta.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ti.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ti.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\o.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\o.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\u.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\u.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\lu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ke.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ke.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\pi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\wi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\na.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\na.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\du.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\du.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bi.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\bi.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\lo.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\he.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\he.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ne.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ne.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\su.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\su.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\wo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ngo.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ngo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ya.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ya.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ju.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ju.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ha.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ha.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\je.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\je.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ro.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ro.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ka.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ka.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\gi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nge.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nge.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nyo.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nyo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nyi.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nyi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ru.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ru.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\me.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\me.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\nu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ra.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ra.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ri.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ri.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nyu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\nyu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ni.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ni.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ne.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ne.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\hu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ce.ogg",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ce.ogg"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\po.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\po.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ga.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ga.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pi.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\pi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ho.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ho.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\so.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\so.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ye.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ye.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wa.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\wa.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\su.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\su.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\si.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\si.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ja.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ja.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\le.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\le.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ta.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ta.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ba.ogg",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\ba.ogg"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\go.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\go.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\to.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\to.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\tu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\cu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pu.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\pu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gu.mp3",
+        "source": "C:\\Users\\John\\Desktop\\LontaraApp\\app\\src\\main\\res\\raw\\gu.mp3"
+    },
+    {
+        "merged": "D:\\android\\LontaraApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ke.mp3",
+        "source": "D:\\android\\LontaraApp\\app\\src\\main\\res\\raw\\ke.mp3"
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.gcs.lontaraapp.TandaBaca">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:src="@drawable/logo"
+        android:id="@+id/logotandabaca"
+        android:background="@color/colorPrimaryDark"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vokal_i"
+        android:layout_below="@+id/logotandabaca"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="80dp"
+        android:id="@+id/vokal_i"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vokal_u"
+        android:layout_alignTop="@+id/vokal_i"
+        android:layout_toRightOf="@id/vokal_i"
+        android:layout_marginLeft="23dp"
+        android:id="@+id/vokal_u"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vokal_e"
+        android:layout_below="@id/vokal_i"
+        android:layout_marginTop="40dp"
+        android:layout_alignLeft="@id/vokal_i"
+        android:id="@+id/vokal_e"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vokal_o"
+        android:layout_below="@id/vokal_i"
+        android:layout_alignTop="@id/vokal_e"
+        android:layout_alignLeft="@id/vokal_u"
+        android:id="@+id/vokal_o"/>
+
+</RelativeLayout>

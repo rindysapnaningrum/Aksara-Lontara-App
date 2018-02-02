@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.gcs.lontaraapp.SejarahActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:src="@drawable/logo"
+        android:id="@+id/logosejarah"
+        android:background="@color/colorPrimaryDark"/>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@id/logosejarah">
+
+    <RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp">
+
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:src="@drawable/lontara_kertas1"
+                android:id="@+id/lontara_kertas1"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="Lontara adalah perkembangan dari tulisan Kawi yang digunakan di kepulauan Indonesia sekitar tahun 800-an. Namun dari itu, tidak diketahui apakah Lontara merupakan turunan langsung dari Kawi atau dari kerabat Kawi lain karena kurangnya bukti. Terdapat teori yang menyatakan bahwa tulisan Lontara didasarkan pada tulisan Rejang, Sumatra selatan karena adanya kesamaan grafis di antara dua tulisan tersebut. Namun hal ini tidak berdasar, karena beberapa huruf lontara merupakan perkembangan yang berumur lebih muda."
+                android:fontFamily="casual"
+                android:textColor="@color/colorPrimary"
+                android:layout_below="@id/lontara_kertas1"
+                android:id="@+id/paragraf1"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="Istilah Lontara juga mengacu pada literatur mengenai sejarah dan geneologi masyarakat Bugis. Contoh paling panjang dan terkenal barangkali merupakan mitos penciptaan bugis Sure’ Galigo, dengan jumlah halaman yang mencapai 6000 lembar. Lontara pernah dipakai untuk menulis berbagai macam dokumen, dari peta, hukum perdagangan, surat perjanjian, hingga buku harian. Dokumen-dokumen ini biasa ditulis dalam sebuah buku, namun terdapat juga medium tulis tradisional bernama Lontara’, di mana selembar daun lontar yang panjang dan tipis digulungkan pada dua buah poros kayu sebagaimana halnya pita rekaman pada tape recorder. Teks kemudian dibaca dengan menggulung lembar tipis tersebut dari kiri ke kanan."
+                android:layout_below="@id/paragraf1"
+                android:fontFamily="casual"
+                android:textColor="@color/colorPrimary"
+                android:id="@+id/paragraf2"
+                android:layout_marginTop="20dp"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="280dp"
+                android:src="@drawable/lontara_kertas2"
+                android:id="@+id/lontara_kertas2"
+                android:layout_below="@id/paragraf2"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="Walaupun penggunaan aksara Latin telah menggantikan Lontara, tulisan ini masih dipakai dalam lingkup kecil masyarakat Bugis dan Makassar. Dalam komunitas Bugis, penggunaan Lontara terbatas dalam upacara seperti pernikahan, sementara di Makassar tulisan Lontara kadang dibubuhkan dalam tanda tangan dan dokumen pribadi."
+                android:layout_below="@id/lontara_kertas2"
+                android:fontFamily="casual"
+                android:textColor="@color/colorPrimary"
+                android:id="@+id/paragraf3"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="30dp"/>
+
+        </RelativeLayout>
+</ScrollView>
+
+
+</RelativeLayout>

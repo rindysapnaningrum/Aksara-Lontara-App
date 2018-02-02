@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.gcs.lontaraapp.ResultActivity">
+
+    <TextView
+        android:id="@+id/grade"
+        android:layout_margin="16dp"
+        android:fontFamily="casual"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:padding="16dp"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Congratulations" />
+
+    <TextView
+        android:id="@+id/outof"
+        android:fontFamily="casual"
+        android:textColor="#fff"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jawaban yang benar 10 \ndari 10 soal"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/grade"
+        android:layout_alignLeft="@+id/grade"
+        android:layout_alignStart="@+id/grade" />
+
+    <Button
+        android:id="@+id/retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/outof"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:fontFamily="casual"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:text="Mulai Lagi"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/retry"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:fontFamily="casual"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:text="Menu"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp"
+        android:layout_alignLeft="@+id/retry"
+        android:layout_alignStart="@+id/retry"
+        android:layout_alignRight="@+id/retry"
+        android:layout_alignEnd="@+id/retry" />
+
+</RelativeLayout>

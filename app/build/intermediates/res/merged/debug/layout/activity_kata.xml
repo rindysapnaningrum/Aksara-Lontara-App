@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.example.gcs.lontaraapp.KataActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:src="@drawable/logo"
+        android:id="@+id/logokata"
+        android:background="@color/colorPrimaryDark"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/logokata"
+        android:layout_centerHorizontal="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp">
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@drawable/sapeda"
+        android:id="@+id/sapeda"/>
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@drawable/sannang"
+        android:id="@+id/sannang"
+        android:layout_marginTop="20dp"/>
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@drawable/appilajara"
+        android:id="@+id/appilajara"
+        android:layout_marginTop="20dp"/>
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@drawable/ammaca"
+        android:id="@+id/ammaca"
+        android:layout_marginTop="20dp"/>
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@drawable/nakke"
+        android:id="@+id/nakke"
+        android:layout_marginTop="20dp"/>
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@drawable/jangang"
+        android:id="@+id/jangang"
+        android:layout_marginTop="20dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

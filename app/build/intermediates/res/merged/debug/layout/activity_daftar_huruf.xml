@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.gcs.lontaraapp.DaftarHuruf">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:src="@drawable/logo"
+        android:id="@+id/logodaftarhuruf"
+        android:background="@color/colorPrimaryDark"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/logodaftarhuruf">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp">
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/kaa"
+                android:id="@+id/kaa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/gaa"
+                android:id="@+id/gaa"
+                android:layout_toRightOf="@id/kaa"
+                android:layout_marginLeft="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/ngaa"
+                android:id="@+id/ngaa"
+                android:layout_toRightOf="@id/gaa"
+                android:layout_marginLeft="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/paa"
+                android:id="@+id/paa"
+                android:layout_below="@id/kaa"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/baa"
+                android:id="@+id/baa"
+                android:layout_alignTop="@id/paa"
+                android:layout_alignLeft="@id/gaa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/maa"
+                android:id="@+id/maa"
+                android:layout_alignTop="@id/paa"
+                android:layout_alignLeft="@id/ngaa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/taa"
+                android:id="@+id/taa"
+                android:layout_below="@id/paa"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/daa"
+                android:id="@+id/daa"
+                android:layout_alignTop="@id/taa"
+                android:layout_alignLeft="@id/baa" />
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/naa"
+                android:id="@+id/naa"
+                android:layout_alignTop="@id/taa"
+                android:layout_alignLeft="@id/maa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/caa"
+                android:id="@+id/caa"
+                android:layout_below="@id/taa"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/jaa"
+                android:id="@+id/jaa"
+                android:layout_alignTop="@id/caa"
+                android:layout_alignLeft="@id/daa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/nyaa"
+                android:id="@+id/nyaa"
+                android:layout_alignTop="@id/caa"
+                android:layout_alignLeft="@id/naa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/yaa"
+                android:id="@+id/yaa"
+                android:layout_below="@id/caa"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/raa"
+                android:id="@+id/raa"
+                android:layout_alignTop="@id/yaa"
+                android:layout_alignLeft="@id/jaa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/laa"
+                android:id="@+id/laa"
+                android:layout_alignTop="@id/yaa"
+                android:layout_alignLeft="@id/nyaa"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/waa"
+                android:id="@+id/waa"
+                android:layout_below="@id/yaa"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="50dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/saa"
+                android:id="@+id/saa"
+                android:layout_alignTop="@id/waa"
+                android:layout_toRightOf="@id/waa"
+                android:layout_marginLeft="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/aa"
+                android:id="@+id/aa"
+                android:layout_below="@id/waa"
+                android:layout_alignLeft="@id/waa"
+                android:layout_marginTop="10dp"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/haa"
+                android:id="@+id/haa"
+                android:layout_alignTop="@id/aa"
+                android:layout_alignLeft="@id/saa"/>
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.gcs.lontaraapp.KuisActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="41dp"
+        android:src="@drawable/logo"
+        android:id="@+id/logo"
+        android:layout_alignParentTop="true" />
+
+        <TextView
+            android:id="@+id/cara_bermain"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/logo"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:fontFamily="casual"
+            android:text="Cara Bermain :\n- Cukup menjawab dengan \n   memilih benar atau salah\n- Permainan akan berhenti \n    setelah menjawab semua soal"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/startButton"
+            android:layout_width="170dp"
+            android:layout_height="60dp"
+            android:layout_below="@id/cara_bermain"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/mulai_kuis" />
+
+</RelativeLayout>
